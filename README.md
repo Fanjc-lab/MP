@@ -140,6 +140,14 @@ Contributions to this project include:
 For any questions or comments about this code, please contact <a href="mailto:hxs@hsc.pku.edu.cn">hxs@hsc.pku.edu.cn</a>.
 
 ## Copyright and Software License
-Copyright (c) 2025 @ Huang Lab, Peking University, Beijing, China
+Copyright (c) 2025 Peking University and Chongqing University of Posts and Telecommunications.
 
-The package is licensed under the [GNU GPL](https://www.gnu.org/licenses/).
+All rights reserved.
+
+This project is proprietary. No license is granted to use, copy, modify, distribute,
+or commercially exploit the code or related materials without prior written permission
+from the copyright owners.
+
+Patent pending. No express or implied patent license is granted.
+
+For full terms, see the [LICENSE](./LICENSE) file.
